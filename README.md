@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Rubén%20%20Camacho&fontSize=70&fontAlignY=35&desc=Desarrollador%20Software%20y%20Analista%20de%20datos"/>
 
-[<img src="https://img.shields.io/badge/-Portfolio-FF6B6B?style=for-the-badge&logo=safari&logoColor=white" />](https://peperuiz.dev/)
+[<img src="https://img.shields.io/badge/-Portfolio-FF6B6B?style=for-the-badge&logo=safari&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ruben-camacho-gomez/)
 [<img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:camachogomez1597@gmail.com)
 
