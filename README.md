@@ -97,14 +97,6 @@ En **data**, desarrollo proyectos con **Python, SQL, Excel y Power BI**, aplican
 
 ---
 
-### 🚀 Uso de Tecnologías
-
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubenCG1997&layout=compact&theme=midnight-purple&hide_border=true"/>
-</div>
-
----
-
 ## 🚀 Proyectos Personales
 
 <div align="center">
