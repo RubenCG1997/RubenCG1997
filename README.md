@@ -92,7 +92,7 @@ En **data**, desarrollo proyectos con **Python, SQL, Excel y Power BI**, aplican
 ## 📊 Contribuciones y Estadísticas
 
 <div align="center">
-  <img height="180px" src="https://streak-stats.vercel.app/?user=RubenCG1997&theme=midnight-purple&hide_border=true"/>
+  <img height="180px" src="https://streak-stats.vercel.app/?user=Rubencmg&theme=midnight-purple&hide_border=true"/>
 </div>
 
 ---
